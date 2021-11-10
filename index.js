@@ -16,7 +16,7 @@ function BackErase() {
     resultado.length - 1
   );
 }
-
+var a = 1;
 function Calcular() {
   var resultado = document.getElementById("result").innerHTML;
 
